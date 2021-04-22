@@ -1,0 +1,5 @@
+/api/.idea/
+/api/venv/
+/front/node_modules/
+/front/.idea/
+/front/package-lock.json
